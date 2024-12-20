@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin , flutter , FireBase ,SQLite**
 
-- 💬 Ask me about **Android, React , Mern , Flutter ,FireBase**
+- 💬 Ask me about **Spring, SpringBoot, Angular , Android, React , Mern , Flutter ,FireBase**
 
 - 📫 How to reach me **Subhasishpradhan807@gmail.com**
 
