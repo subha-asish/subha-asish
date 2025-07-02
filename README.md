@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subha-asish&label=Profile%20views&color=0e75b6&style=flat" alt="subha-asish" /> </p>
 
-- 🌱 I’m currently learning **Kotlin , flutter , FireBase ,SQLite**
-
 - 💬 Ask me about **Spring, SpringBoot, Angular , Android, React , Mern , Flutter ,FireBase**
 
 - 📫 How to reach me **Subhasishpradhan807@gmail.com or https://www.linkedin.com/in/i-am-subhasis-pradhan/ or https://subhasis.onrender.com/**
