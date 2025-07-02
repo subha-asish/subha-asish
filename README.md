@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Spring, SpringBoot, Angular , Android, React , Mern , Flutter ,FireBase**
 
-- 📫 How to reach me **Subhasishpradhan807@gmail.com**
+- 📫 How to reach me **Subhasishpradhan807@gmail.com or https://www.linkedin.com/in/i-am-subhasis-pradhan/ or https://subhasis.onrender.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
