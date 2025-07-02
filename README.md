@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Subhasis</h1>
-<h3 align="center">A passionate full stack App and Website developer from India</h3>
+<h3 align="center">A passionate full stack app and website developer from India</h3>
 <img align="right" alt = "coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subha-asish&label=Profile%20views&color=0e75b6&style=flat" alt="subha-asish" /> </p>
